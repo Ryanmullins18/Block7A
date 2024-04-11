@@ -1,3 +1,8 @@
+.dark-mode {
+  background-color: navy;
+  color: white;
+}
+
 .header {
   text-align: center;
   color: red;
@@ -41,44 +46,20 @@ div {
 
 .book1 {
   background-color: #babbbc;
-  width: 400px;
-  margin-left: 30%;
-  border: solid aqua;
-  font-size: large;
 }
 
 .book2 {
   background-color: #babbbc;
-  width: 400px;
-  margin-left: 30%;
-  margin-top: 0.5in;
-  border: solid aqua;
-  font-size: large;
 }
 
 .book3 {
   background-color: #babbbc;
-  width: 400px;
-  margin-left: 30%;
-  margin-top: 0.5in;
-  border: solid aqua;
-  font-size: large;
 }
 
 .book4 {
   background-color: #babbbc;
-  width: 400px;
-  margin-left: 30%;
-  margin-top: 0.5in;
-  border: solid aqua;
-  font-size: large;
 }
 
 .book5 {
   background-color: #babbbc;
-  width: 400px;
-  margin-left: 30%;
-  margin-top: 0.5in;
-  border: solid aqua;
-  font-size: large;
 }/*# sourceMappingURL=style.css.map */

@@ -3,11 +3,31 @@ $s: solid aqua;
 $l: large;
 $text: #babbcc;
 
+$dark-mode: true;
+
+$light-background: beige;
+$light-text: black;
+
+$dark-background: navy;
+$dark-text: white;
+
+// @if $red {
+//     width: 400px;
+//     margin-left: 30%;
+//     border: $s;
+//     font-size:$l;
+    
+// }
+.dark-mode {
+        background-color: $dark-background;
+        color: $dark-text;
+}
+
+
 .header {
   text-align: center;
   color: red;
   font-size: xxx-large;
-  
 }
 
 .subhead {
@@ -45,42 +65,21 @@ div {
 }
 .book1 {
     background-color: $red;
-    width: 400px;
-    margin-left: 30%;
-    border: $s;
-    font-size:$l;
+    
     
 }
 
 .book2 {
     background-color: $red;
-    width: 400px;
-    margin-left: 30%;
-    margin-top: .5in;
-    border: $s;
-    font-size:$l;
 }
 .book3 {
     background-color: $red;
-    width: 400px;
-    margin-left: 30%;
-    margin-top: .5in;
-    border: $s;
-    font-size:$l;
+    
 }
 .book4 {
     background-color: $red;
-    width: 400px;
-    margin-left: 30%;
-    margin-top: .5in;
-    border: $s;
-    font-size:$l;
+   
 }
 .book5 {
     background-color: $red;
-    width: 400px;
-    margin-left: 30%;
-    margin-top: .5in;
-    border: $s;
-    font-size:$l;
 }
