@@ -1,0 +1,84 @@
+.header {
+  text-align: center;
+  color: red;
+  font-size: xxx-large;
+}
+
+.subhead {
+  text-align: center;
+  color: #babbcc;
+  font-size: xx-large;
+}
+
+.jump {
+  background-color: white;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+}
+
+div {
+  text-align: center;
+}
+
+.jump {
+  background-color: white;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+}
+
+.feedback {
+  background-color: white;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+  margin-bottom: 0.5in;
+}
+
+.book1 {
+  background-color: #babbbc;
+  width: 400px;
+  margin-left: 30%;
+  border: solid aqua;
+  font-size: large;
+}
+
+.book2 {
+  background-color: #babbbc;
+  width: 400px;
+  margin-left: 30%;
+  margin-top: 0.5in;
+  border: solid aqua;
+  font-size: large;
+}
+
+.book3 {
+  background-color: #babbbc;
+  width: 400px;
+  margin-left: 30%;
+  margin-top: 0.5in;
+  border: solid aqua;
+  font-size: large;
+}
+
+.book4 {
+  background-color: #babbbc;
+  width: 400px;
+  margin-left: 30%;
+  margin-top: 0.5in;
+  border: solid aqua;
+  font-size: large;
+}
+
+.book5 {
+  background-color: #babbbc;
+  width: 400px;
+  margin-left: 30%;
+  margin-top: 0.5in;
+  border: solid aqua;
+  font-size: large;
+}/*# sourceMappingURL=style.css.map */

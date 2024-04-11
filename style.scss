@@ -1,0 +1,86 @@
+$red: #babbbc;
+$s: solid aqua;
+$l: large;
+$text: #babbcc;
+
+.header {
+  text-align: center;
+  color: red;
+  font-size: xxx-large;
+  
+}
+
+.subhead {
+  text-align: center;
+  color: $text;
+  font-size: xx-large;
+}
+
+.jump {
+    background-color: white;
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        width: 300px;     
+}
+div {
+    text-align: center;
+}
+.jump {
+    background-color: white;
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        width: 300px;     
+        
+}
+.feedback {
+    background-color: white;
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        width: 300px;  
+        margin-bottom: .5in;
+        
+}
+.book1 {
+    background-color: $red;
+    width: 400px;
+    margin-left: 30%;
+    border: $s;
+    font-size:$l;
+    
+}
+
+.book2 {
+    background-color: $red;
+    width: 400px;
+    margin-left: 30%;
+    margin-top: .5in;
+    border: $s;
+    font-size:$l;
+}
+.book3 {
+    background-color: $red;
+    width: 400px;
+    margin-left: 30%;
+    margin-top: .5in;
+    border: $s;
+    font-size:$l;
+}
+.book4 {
+    background-color: $red;
+    width: 400px;
+    margin-left: 30%;
+    margin-top: .5in;
+    border: $s;
+    font-size:$l;
+}
+.book5 {
+    background-color: $red;
+    width: 400px;
+    margin-left: 30%;
+    margin-top: .5in;
+    border: $s;
+    font-size:$l;
+}
